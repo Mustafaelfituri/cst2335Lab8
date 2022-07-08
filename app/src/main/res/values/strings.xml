@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Assesment1</string>
+    <string name="string_open">Open Navigation Drawer</string>
+    <string name="string_close">Close Navigation Drawer</string>
+</resources>
